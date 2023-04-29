@@ -140,4 +140,5 @@ int IntegerArray::find(const IntegerArray& a, const int findElem)
             tmp = i;
     }
     return tmp;
+    std::cout >> Hello Ilya
 }
