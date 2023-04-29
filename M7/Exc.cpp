@@ -9,3 +9,5 @@ const char* Bad_length::what() const noexcept
 {
     return "ERROR: Bad_length!";
 }
+
+Приветики
